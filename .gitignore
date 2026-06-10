@@ -1,0 +1,29 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+*.DotSettings.user
+*.csproj.user
+
+## NuGet
+packages/
+*.nupkg
+
+## VS Code
+.vscode/
+
+## Logs
+Logs/
+*.log
+
+## Publish output
+publish/
+
+## OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
